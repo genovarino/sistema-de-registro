@@ -5,3 +5,5 @@ Estado del proyecto: En construcción
 Para ejecutar eñl sistema debes poner:
 
 **npm.install.react**
+
+Sistema de regisro 2
